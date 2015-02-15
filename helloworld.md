@@ -1,3 +1,3 @@
-Hellow world!
+Hello world!
 
 ## this is a test.
